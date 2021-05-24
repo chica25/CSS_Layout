@@ -8,3 +8,11 @@ body {
     color: white(106, 106, 106);
     font-family: "Lora";
 }
+
+header {
+    background: black;
+}
+
+section {
+    background: black;
+}
