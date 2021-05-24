@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: rgb(58, 58 58);
+    color: white;
+    font-family: "Lora";
+}
