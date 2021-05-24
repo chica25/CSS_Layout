@@ -1,6 +1,6 @@
 * {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 body {
@@ -11,16 +11,17 @@ body {
 header {
     background: black;
     color: white;
-    margin: 20px 40px;
     padding: 20px;
 }
 
 section {
     background: white;
     color: grey;
+    padding: 20px;
 }
 
 footer {
     background: black;
-    color: white
+    color: white;
+    padding: 10px 20px;
 }
