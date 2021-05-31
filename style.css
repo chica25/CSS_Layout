@@ -39,14 +39,19 @@ li {
     display: inline-block;
     margin-right: 20px;
 }
-section.feature-box {
-    display: flex;
+
+.feature.box div {
+    width: 100%;
+    margin: 1px;
 }
-    section.feature-box  div {
-        background-color: gray;
-        width: 100%;
-        margin: 1px;
-    }
+
+section.feature-box.sales div {
+    background-color: grey;
+}
+
+section.feature-box.closeouts div {
+    background-color: red;
+}
 
 footer {
     background: black;
