@@ -8,6 +8,11 @@ body {
     font-family: "Lora";
 }
 
+div {
+    background-color: red;
+    width: 100px;
+}
+
 header {
     background: black;
     color: white;
@@ -18,6 +23,8 @@ section {
     background: white;
     color: grey;
     padding: 20px;
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 footer {
