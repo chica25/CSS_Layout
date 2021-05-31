@@ -39,10 +39,10 @@ li {
     display: inline-block;
     margin-right: 20px;
 }
-section {
+section.feature-box {
     display: flex;
 }
-    section div {
+    section.feature-box  div {
         background-color: gray;
         width: 100%;
         margin: 1px;
